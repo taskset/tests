@@ -1,4 +1,4 @@
-TARGET := ../bin/test_zmq
+TARGET := ../test_zmq
 CC := gcc
 INCLUDE:= -I ../inc
 
